@@ -2,6 +2,7 @@
  
  AmazonのURLを短縮するchrome拡張
 「パッケージ化されていない拡張機能を追加する」から追加する
+上部に短縮用のツールバーが追加される。
 
 ## ブックマークレット
 https://amzn-link.vercel.app/api/amznlink
